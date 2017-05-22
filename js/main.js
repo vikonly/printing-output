@@ -41,5 +41,5 @@ alert(message);
 var f_name = 'vikrant';
 var l_name = 'chib';
 var email = 'vikr0003@algonquinlive.com';
-var output = "My name is " + f_name + l_name + ". You can contact me at " + email + ".";
+var output = "My name is " + f_name +" "+ l_name + ". You can contact me at " + email + ".";
 alert(output);
